@@ -1,32 +1,32 @@
-# Contributing to City-OS
+# City-OS'e Katkıda Bulunma
 
-First off, thank you for considering contributing to City-OS. It's people like you that make City-OS such a great tool.
+Öncelikle, City-OS'e katkıda bulunmayı düşündüğünüz için teşekkür ederiz. Sizin gibi insanlar sayesinde City-OS bu kadar harika bir araç haline geliyor.
 
-## How Can I Contribute?
+## Nasıl Katkıda Bulunabilirim?
 
-### Reporting Bugs
-This section guides you through submitting a bug report for City-OS. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
+### Hata Bildirme (Reporting Bugs)
+Bu bölüm, City-OS için bir hata bildirimi gönderme sürecinde size rehberlik eder. Bu yönergelere uymak, bakımcıların ve topluluğun raporunuzu anlamasına, davranışı yeniden üretmesine ve ilgili raporları bulmasına yardımcı olur.
 
-### Suggesting Enhancements
-This section guides you through submitting an enhancement suggestion for City-OS, including completely new features and minor improvements to existing functionality.
+### İyileştirme Önerileri (Suggesting Enhancements)
+Bu bölüm, tamamen yeni özellikler ve mevcut işlevsellikteki küçük iyileştirmeler dahil olmak üzere, City-OS için bir iyileştirme önerisi gönderme sürecinde size rehberlik eder.
 
-### Your First Code Contribution
-Unsure where to begin contributing to City-OS? You can start by looking through `beginner` and `help-wanted` issues.
+### İlk Kod Katkınız
+City-OS'e nereden başlayacağınızdan emin değil misiniz? `beginner` (başlangıç) ve `help-wanted` (yardım aranıyor) etiketli sorunlara göz atarak başlayabilirsiniz.
 
-## Styleguides
+## Stil Rehberleri
 
-### Git Commit Messages
-* Use the present tense ("Add feature" not "Added feature")
-* Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
-* Limit the first line to 72 characters or less
-* Reference issues and pull requests liberally after the first line
+### Git Commit Mesajları
+*   Şimdiki zaman kullanın ("Özellik eklendi" yerine "Özellik ekle")
+*   Emir kipi kullanın ("İmleci şuraya taşır" yerine "İmleci şuraya taşı")
+*   İlk satırı 72 karakter veya daha azıyla sınırlayın
+*   İlk satırdan sonra sorunlara (issues) ve çekme isteklerine (pull requests) bolca atıfta bulunun
 
-### Documentation
-* Use professional, technical language.
-* Ensure all diagrams are updated to reflect architectural changes.
+### Dokümantasyon
+*   Profesyonel ve teknik bir dil kullanın.
+*   Tüm diyagramların mimari değişiklikleri yansıtacak şekilde güncellendiğinden emin olun.
 
-## Recognition
-All contributors will be recognized in the `README.md` as part of the Elite Engineering Team.
+## Tanınma
+Tüm katkıda bulunanlar, Elit Mühendislik Ekibi'nin bir parçası olarak `README.md` dosyasında onurlandırılacaktır.
 
 ---
-© 2025 City-OS Project.
+© 2025 City-OS Projesi.

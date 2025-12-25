@@ -2,19 +2,19 @@ import logging
 
 class MobilityX:
     """
-    Mobility-X Module: Real-time traffic orchestration and V2G integration.
+    Mobility-X Modülü: Gerçek zamanlı trafik yönetimi ve V2G entegrasyonu.
     """
     def __init__(self):
         self.logger = logging.getLogger("MobilityX")
         self.status = "OFFLINE"
 
     def initialize_sensors(self):
-        self.logger.info("Initializing LiDAR and AI Vision sensory array...")
+        self.logger.info("LiDAR ve Yapay Zeka Duyusal Dizisi başlatılıyor...")
         self.status = "ACTIVE"
 
     def optimize_traffic_flow(self, grid_data):
-        # AI Logic for traffic signal optimization
-        self.logger.info("Recalculating signal synchronization for optimal flow...")
+        # Trafik sinyal optimizasyonu için Yapay Zeka mantığı
+        self.logger.info("Optimal akış için sinyal senkronizasyonu yeniden hesaplanıyor...")
         pass
 
 if __name__ == "__main__":

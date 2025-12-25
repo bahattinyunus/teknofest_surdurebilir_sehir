@@ -1,17 +1,17 @@
 #!/bin/bash
 echo "------------------------------------------------"
-echo "🏙️  CITY-OS: THE URBAN OPERATING SYSTEM"
+echo "🏙️  CITY-OS: KENTSEL İŞLETİM SİSTEMİ"
 echo "------------------------------------------------"
 sleep 1
-echo "[SYSTEM] Core Engine: Initializing..."
+echo "[SİSTEM] Çekirdek Motor: Başlatılıyor..."
 sleep 0.5
-echo "[SYSTEM] Mobility-X Layer: [NOMINAL]"
+echo "[SİSTEM] Mobility-X Katmanı: [NOMİNAL]"
 sleep 0.5
-echo "[SYSTEM] Energy-Grid Layer: [NOMINAL]"
+echo "[SİSTEM] Energy-Grid Katmanı: [NOMİNAL]"
 sleep 0.5
-echo "[SYSTEM] Eco-Watch Layer: [NOMINAL]"
+echo "[SİSTEM] Eco-Watch Katmanı: [NOMİNAL]"
 sleep 0.5
-echo "[SYSTEM] Resilience-Core: [ACTIVE]"
+echo "[SİSTEM] Resilience-Core: [AKTİF]"
 echo "------------------------------------------------"
-echo "🚀 MISSION STATUS: ALL SYSTEMS GREEN."
+echo "🚀 GÖREV DURUMU: TÜM SİSTEMLER HAZIR."
 echo "------------------------------------------------"

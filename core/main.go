@@ -5,18 +5,18 @@ import (
 	"log"
 )
 
-// CityOS Core Engine
-// Orchestrates the integration of urban modules (Mobility, Energy, Eco)
+// CityOS Çekirdek Motoru
+// Kentsel modüllerin (Mobilite, Enerji, Eko) entegrasyonunu yönetir.
 
 func main() {
-	fmt.Println("🏙️ CITY-OS: CORE ENGINE INITIALIZING...")
+	fmt.Println("🏙️ CITY-OS: ÇEKİRDEK MOTOR BAŞLATILIYOR...")
 	
-	// TODO: Initialize MQTT Broker Connection
-	// TODO: Load Module Configurations
-	// TODO: Startup Health Check
+	// TODO: MQTT Aracı Bağlantısını Başlat
+	// TODO: Modül Yapılandırmalarını Yükle
+	// TODO: Başlangıç Sağlık Kontrolü
 	
-	log.Println("Operational Status: NOMINAL")
+	log.Println("Operasyonel Durum: NOMİNAL")
 	
-	// Block and wait for interrupt
+	// Kesinti için bekle
 	select {}
 }
