@@ -118,3 +118,8 @@ Trabzon/Of ta ilim tahsil eden Bahattin, teknik uzmanlığını kent felsefesiyl
 © 2025 City-OS Projesi. Mimari: Bahattin Yunus Çetin.
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Powered%20By-TEKNOFEST-red?style=for-the-badge&logo=rocket&logoColor=white" alt="TEKNOFEST Support">
+</p>
+
+
